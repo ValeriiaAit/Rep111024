@@ -15,8 +15,8 @@ build/
 */png
 
 ### LOGS ###
-\src\test_logs
-\src\test_screenshots
+src/test_screenshots
+src/test_logs
 
 out/
 !**/src/main/**/out/
